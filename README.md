@@ -13,4 +13,4 @@ Neste curso, explorei os fundamentos do HTML e CSS, praticando técnicas essenci
 - Responsividade: tornando meu site amigável para dispositivos móveis
 - Práticas recomendadas para desenvolvimento web
 
-## Vamos continuar aprendendo juntos! Happy coding! 🚀
+## Vamos continuar aprendendo! Happy coding! 🚀
