@@ -4,6 +4,8 @@
 
 ![Exemplo de GIF](img/site.gif)
 
+Você pode visualizar este projeto em execução em: https://alura-plus-weld-eta.vercel.app/
+
 ## O Que Aprendi
 
 Neste curso, explorei os fundamentos do HTML e CSS, praticando técnicas essenciais para o desenvolvimento web. Alguns dos tópicos cobertos incluem:
